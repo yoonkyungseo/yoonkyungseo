@@ -5,8 +5,8 @@ KyungSeo Yoon
 
 
 ## ☎️ Contact
-[![Notion](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white)](https://www.notion.so/s-History-343b8f9b860846d19562d0cf0a43d024)
 [![Mail](https://img.shields.io/badge/rudtj0107@gmail.com-e10915?style=flat-square&logo=Gmail&logoColor=white)](rudtj0107@gmail.com)
+[![Notion](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white)](https://www.notion.so/s-History-343b8f9b860846d19562d0cf0a43d024)
 
 ## 🛠 Technical Skills
  * Main Tech  
@@ -24,26 +24,25 @@ KyungSeo Yoon
 | 2020.09 ~ | 국민대학교 | 데이터사이언스융합전공 | 융합전공 | 재학 |
 | 2020.03 ~ 2020.12 | D&A | 빅데이터 학회(ML/DL) | 멤버 | [링크](https://cms.kookmin.ac.kr/kmu-dna/index.do)|
 | 2021.11 ~ 2022.10 | D&A | 빅데이터 학회(ML/DL) | 운영진 | [링크](https://cms.kookmin.ac.kr/kmu-dna/index.do)|
-
-## 📔 Career
-
-| 기간 | 소속 | 부서 | 담당 | 비고 |
-| :------: | :------: | :------: | :------: | :------: |
-| 2022.12 ~ 2023.02 | 노리스페이스 | AI Researcher(인턴) | 시계열 예측, NER | [홈페이지](https://www.norispace.com/)
-    
+   
+## 🏆 Award
+**| 연도 | 대회명 | 주최 | 내용 | 수상 | 링크 |**
+| :------: | :------: | :------: | :------: | :------: | :------: |
+| 2023 | ACK2023 학부생 논문경진대회 | 한국정보처리학회 | 빅데이터 분석을 통한 트렌드 파악 및 사용자 맞춤 도서 추천 | 동상 | [링크](https://github.com/) |
+| 2021 | 제1회 산학연계공모전 | (주)플랫포머스 | 홈클린 데이터를 활용하여 고객과 가사도우미 매칭 성공 여부 예측 | 최우수상 | [링크](https://github.com/jinho5913/ML_Developing-a-Purchase-Forecast-model) |
 
 ## 🏅 Competition
-| 연도 | 주최 | 내용 | 역할 | 비고 |
+| 연도 | 주최 | 내용 | 역할 | 링크 |
 | :------: | :------: | :------: | :------: | :------: |
 | 2022 | MAICON | 항공 이미지 데이터를 활용한 건물 변화 탐지 | 팀장 | [링크](https://github.com/jinho5913/CV_Detecting-buildings-using-aircraft-image-data-data) |
 | 2022 | BigContest | 앱 사용성 데이터를 통한 대출신청 예측분석 | 팀장 | [링크](https://github.com/jinho5913/ML_Prediction-Analysis-of-Loan-Application) |
-| 2022 | L-point | 고객 구매 데이터 기반 예측 모델 개발 및 개인화 마케팅 전략 제안 | 팀장 | [링크](https://github.com/jinho5913/ML_Developing-a-Purchase-Forecast-model) |
+| 2021 | (주)플랫포머스 | 홈클린 데이터를 활용하여 고객과 가사도우미 매칭 성공 여부 예측 | 팀장 | [링크](https://github.com/jinho5913/ML_Developing-a-Purchase-Forecast-model) |
 
 
 
 ## 💻  Project
 
-| 연도 | 분류 | 프로젝트명 | 역할 | 비고 |
+| 연도 | 분류 | 프로젝트명 | 역할 | 링크 |
 | :------: | :------: | :------: | :------: | :------: |
 | 2023 | NLP | 네이버페이 사용 로그 분석 | 팀장 | [논문 작성중](https://github.com/jinho5913/NLP_Investigate-Naver-Pay-usage-logs) |
 | 2023 | NLP | NER을 통한 영수증 거래내역 추출 | 개인 | [링크](https://github.com/jinho5913/NLP_Receipt-data-NER) |
