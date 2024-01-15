@@ -29,15 +29,20 @@ KyungSeo Yoon
 
 | 연도 | 대회명 | 주최 | 내용 | 수상 | 링크 |    
 | :------: | :------: | :------: | :------: | :------: | :------: |  
-| 2023 | ACK2023 학부생 논문경진대회 | 한국정보처리학회 | 빅데이터 분석을 통한 트렌드 파악 및 사용자 맞춤 도서 추천 | 동상 | [링크](https://github.com/) |  
+| 2023 | ACK2023 학부생 논문경진대회 | 한국정보처리학회 | 빅데이터 분석을 통한 트렌드 파악 및 사용자 맞춤 도서 추천 | 동상 | [링크](https://github.com/yoonkyungseo/KMU_project/tree/main/Latest_BigData_Technology/2023%20KIPS-ACK) |  
 | 2021 | 제1회 산학연계공모전 | (주)플랫포머스 | 홈클린 데이터를 활용하여 고객과 가사도우미 매칭 성공 여부 예측 | 최우수상 | [링크](https://github.com/jinho5913/ML_Developing-a-Purchase-Forecast-model) |  
 
+
 ## 🏅 Competition
-| 연도 | 주최 | 내용 | 역할 | 링크 |
-| :------: | :------: | :------: | :------: | :------: |
-| 2022 | MAICON | 항공 이미지 데이터를 활용한 건물 변화 탐지 | 팀장 | [링크](https://github.com/jinho5913/CV_Detecting-buildings-using-aircraft-image-data-data) |
-| 2022 | BigContest | 앱 사용성 데이터를 통한 대출신청 예측분석 | 팀장 | [링크](https://github.com/jinho5913/ML_Prediction-Analysis-of-Loan-Application) |
-| 2021 | (주)플랫포머스 | 홈클린 데이터를 활용하여 고객과 가사도우미 매칭 성공 여부 예측 | 팀장 | [링크](https://github.com/jinho5913/ML_Developing-a-Purchase-Forecast-model) |
+
+| 연도 | 주최 | 주관 | 내용 | 역할 | 링크 |
+| :------: | :------: | :------: | :------: | :------: | :------: |
+| 2022 | D&A | D&A | 유저 사진으로 이모티콘 생성 | 팀장 | [링크](https://github.com/yoonkyungseo/KMU_DnA/tree/main/Conference_Session) |
+| 2022 |  | BIGCONTEST | 앱 사용성 데이터를 통한 대출신청 예측 분석 | 팀장 | [링크](https://github.com/yoonkyungseo/Competition/tree/main/2022_Bigdata_Contest) |
+| 2022 | 롯데멤버스 | 롯데멤버스 | 고객 구매 데이터에 기반한 예측 모델 개발 및 개인화 마케팅 전략 제안 | 팀장 | [링크](https://github.com/yoonkyungseo/Competition/tree/main/7th_LotteMembers_Bigdata_Contest) |
+| 2021 | 한국고용정보원 | DACON | 잡케어 서비스 추천 알고리즘 개발 | 팀장 | [링크](https://github.com/yoonkyungseo/Competition/tree/main/DACON-Jobcare_Recommendation_Algorithm_Competition) |
+| 2021 |  | BIGCONTEST | 제주도 음식물 쓰레기양 예측을 통한 배출량 감소 방안 도출 | 팀장 | [링크](https://github.com/yoonkyungseo/Competition/tree/main/2021_Bigdata_Contest) |
+| 2021 | (주)플랫포머스 | AI빅데이터융합경영학과 | 홈클린 데이터를 활용하여 고객과 가사도우미 매칭 성공 여부 예측 | 팀장 | [링크](https://github.com/jinho5913/ML_Developing-a-Purchase-Forecast-model) |
 
 
 
@@ -45,16 +50,11 @@ KyungSeo Yoon
 
 | 연도 | 분류 | 프로젝트명 | 역할 | 링크 |
 | :------: | :------: | :------: | :------: | :------: |
-| 2023 | NLP | 네이버페이 사용 로그 분석 | 팀장 | [논문 작성중](https://github.com/jinho5913/NLP_Investigate-Naver-Pay-usage-logs) |
-| 2023 | NLP | NER을 통한 영수증 거래내역 추출 | 개인 | [링크](https://github.com/jinho5913/NLP_Receipt-data-NER) |
-| 2023 | Time Series | 샐러드 수요량 예측 모델 개발 | 개인 | [링크](https://github.com/jinho5913/DL_Time-Series-Forecasting) |
-| 2022 | CV | Facial Keypoint를 활용한 영상 편집점 마킹 기술 개발 | 팀장 | [논문 작성중](https://github.com/jinho5913/CV_Development-of-Video-Editing-Point-Marking-Technology-Using-Facial-Keypoint) |
-| 2022 | ZeroShotLearning, 음성합성 | ZeroShot Learning과 TTS를 활용한 목소리 합성 | 팀원 | [링크](https://github.com/jinho5913/ZtarGAN-VC) |
-| 2022 | 추천시스템 | 무신사 리뷰를 통한 옷 추천시스템 개발 | 팀장 | [정리중](https://github.com/jinho5913/RS_Review-based-Clothing-Recommendation-System) |
-| 2022 | Static | 유망주 축구선수 다변량 통계 분석 | 팀원 | [링크](https://github.com/jinho5913/Static_Analysis-of-promising-soccer-players) |
-| 2022 | 자연어분석 | 교보문고 베스트셀러 분석 | 개인 | [링크](https://github.com/jinho5913/NLP_Kyobo-Bookstore-Best-Seller-Analysis) |
-| 2022 | 자연어분석 | 다음 뉴스 기사 분석 | 개인 | [링크](https://github.com/jinho5913/NLP_Daum-New-Analysis) |
-| 2021 | ML | 설문조사 응답 여부 예측 | 팀장 | [링크](https://github.com/jinho5913/ML_Predict-survey-responses) |
-| 2021 | ML | ML 자율 스터디 | 기획, 운영 | [링크](https://github.com/jinho5913/ML_Self-Group-Study) |
-| 2021 | 데이터분석 | 생활 속 My Data를 활용한 자기 분석 | 개인 | [링크](https://github.com/jinho5913/DA_Self-Analysis-with-My-Data) |
-| 2021 | 데이터분석 | 백화점 고객분석 통한 마케팅 전략 제시 | 팀장 | [링크](https://github.com/jinho5913/DA_Business-analysis-with-Data) |
+| 2023 | NLP | 빅데이터 분석을 통한 트렌드 파악 및 사용자 맞춤 도서 추천 | 개인 | [링크](https://github.com/yoonkyungseo/KMU_project/tree/main/Latest_BigData_Technology) |
+| 2021 | DL | 딥러닝을 활용한 이미지 객체 보정 | 팀장 | [링크](https://github.com/yoonkyungseo/KMU_project/tree/main/Deep_Learning) |
+| 2022 | SW | 비행기 총알 게임 만들기 | 개인 | [링크](https://github.com/yoonkyungseo/KMU_project/tree/main/Science%26Software_Thinking) |
+| 2022 | NLP | 다음 뉴스 텍스트 분석으로 뉴스 카테고리 분류 | 개인 | [링크](https://github.com/yoonkyungseo/KMU_project/tree/main/Textdata_Analysis) |
+| 2021 | ML | 유통 데이터 및 구매 데이터로 고객 연령 예측 | 기획, 운영 | [링크](https://github.com/yoonkyungseo/KMU_project/tree/main/Machine_Learning) |
+| 2020 | 공간데이터분석 | 코로나19로 인한 스타벅스 폐점 대상 매장 선정 | 개인 | [링크](https://github.com/yoonkyungseo/KMU_project/tree/main/Spatial_BigData_Analysis) |
+| 2020 | 공간데이터분석 | 성신여대 상권 내 10년 이상 생존한 음식점 특징 분석 | 개인 | [링크](https://github.com/yoonkyungseo/KMU_project/tree/main/Spatial_BigData_Analysis) |
+| 2019 | 데이터분석 | PDC를 사용한 군집 분석 및 추천 방법 | 개인 | [링크](https://github.com/yoonkyungseo/KMU_project/tree/main/Analysis_programming) |
