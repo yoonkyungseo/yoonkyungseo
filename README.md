@@ -5,9 +5,9 @@ KyungSeo Yoon
 
 
 ## ☎️ Contact
- <img src="https://img.shields.io/badge/rudtj0107@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/rudtj0107@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 
-<a href="https://www.notion.so/s-History-343b8f9b860846d19562d0cf0a43d024">
+ <a href="https://www.notion.so/s-History-343b8f9b860846d19562d0cf0a43d024">
     <img 
         src="https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white">
  </a>
