@@ -9,7 +9,7 @@ KyungSeo Yoon
     <img 
         src="http://img.shields.io/badge/-Tistory-97979A?style=flat&logo=Tistory&link=https://jh-datahouse.tistory.com//&logoColor=white">
     
- <img src="https://img.shields.io/badge/jinho5913@naver.com-03C75A?style=flat&logo=Naver&logoColor=white"/>
+ <img src="https://img.shields.io/badge/rudtj0107@gmail.com-03C75A?style=flat&logo=Naver&logoColor=white"/>
 
 </a>
 
